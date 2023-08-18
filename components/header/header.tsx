@@ -3,7 +3,6 @@ import React, { useState } from "react"
 import style from "@/styles/scss/web.module.scss"
 import Navigation from "./navigation"
 import Logo from "../logo"
-import HeaderStrip from "./headerStrip"
 
 const Header = (props: any) => {
 	const { pageTitle } = props
