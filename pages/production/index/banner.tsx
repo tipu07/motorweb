@@ -18,7 +18,7 @@ const Banner = () => {
 							<div className={style.text}>
 								<h2>Our vehicle specifications API service is all that you need</h2>
 								<p>Automate data processes, and enable your business to drive a better customer, staff and digital experience – and all while supporting risk and fraud management, and compliance.</p>
-								<p>Get the data you need, when you need it, with confidence. Motorweb's latest product allows you to access data quickly and easily, with pre-defined data packs that provide valuable insights to support your analytics and operations.</p>
+								<p>Get the data you need, when you need it, with confidence. Motorweb&lsquo;s latest product allows you to access data quickly and easily, with pre-defined data packs that provide valuable insights to support your analytics and operations.</p>
 								<div className={style.btn_blk}>
 									<Link href="/production/about" className={style.site_btn}>
 										Read More
