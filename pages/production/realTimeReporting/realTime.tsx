@@ -7,7 +7,7 @@ const RealTime = () => {
 			<section id={style.real_time} className={style.section_bg}>
 				<div className={style.contain}>
 					<div className={style.section_content}>
-						<h2>Real Time Reporting / API's</h2>
+						<h2>Real Time Reporting / API&lsquo;s</h2>
 						<p>Motorweb, your trusted source for API solutions in the automotive industry.</p>
 					</div>
 					<div className={style.wrapper}>
